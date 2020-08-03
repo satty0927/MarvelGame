@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MarvelGame/static/css/main.27747e7e.chunk.css",
+    "main.js": "/MarvelGame/static/js/main.ae195b2e.chunk.js",
+    "main.js.map": "/MarvelGame/static/js/main.ae195b2e.chunk.js.map",
+    "runtime-main.js": "/MarvelGame/static/js/runtime-main.f0b4eac0.js",
+    "runtime-main.js.map": "/MarvelGame/static/js/runtime-main.f0b4eac0.js.map",
+    "static/js/2.26340233.chunk.js": "/MarvelGame/static/js/2.26340233.chunk.js",
+    "static/js/2.26340233.chunk.js.map": "/MarvelGame/static/js/2.26340233.chunk.js.map",
+    "index.html": "/MarvelGame/index.html",
+    "precache-manifest.2e97d76e349ef0e8a2c7859eccc2bbec.js": "/MarvelGame/precache-manifest.2e97d76e349ef0e8a2c7859eccc2bbec.js",
+    "service-worker.js": "/MarvelGame/service-worker.js",
+    "static/css/main.27747e7e.chunk.css.map": "/MarvelGame/static/css/main.27747e7e.chunk.css.map",
+    "static/js/2.26340233.chunk.js.LICENSE.txt": "/MarvelGame/static/js/2.26340233.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0b4eac0.js",
+    "static/js/2.26340233.chunk.js",
+    "static/css/main.27747e7e.chunk.css",
+    "static/js/main.ae195b2e.chunk.js"
+  ]
+}
