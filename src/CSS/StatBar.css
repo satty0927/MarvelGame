@@ -1,0 +1,19 @@
+.StatBar {
+  background-color: #dae1e7;
+  width: 100%;
+  height: 50px;
+  border-radius: 12px 12px 12px 12px;
+  font-size: 20px;
+}
+
+.StatBar div {
+  position: relative;
+  padding-top: 15px;
+}
+
+.stats {
+  position: relative;
+  margin-top: 20px;
+  padding: 70px;
+  align-content: center;
+}

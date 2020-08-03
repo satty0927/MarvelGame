@@ -1,0 +1,66 @@
+#majorScreen {
+  z-index: 1;
+  position: relative;
+}
+
+#majorScreen HeroBox {
+  position: relative;
+  z-index: 1;
+}
+
+#ButtonSet {
+  position: relative;
+  z-index: 1;
+}
+
+#ButtonSet ResetButton {
+  position: relative;
+  z-index: 1;
+}
+
+#Modal {
+  z-index: 30;
+  position: absolute;
+  float: right;
+  right: 0;
+  width: 20%;
+  height: 60px;
+  border-radius: 10px 0px 10px 10px;
+  background-color: #ffcb8e;
+}
+
+#Modal p {
+  text-align: center;
+}
+
+#WinModal {
+  z-index: 30;
+  position: absolute;
+  float: left;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 60px;
+  border-radius: 10px 0px 10px 10px;
+  background-color: #d3de32;
+}
+
+#WinModal p {
+  text-align: center;
+}
+
+#LostModal {
+  z-index: 30;
+  position: absolute;
+  float: left;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 60px;
+  border-radius: 10px 0px 10px 10px;
+  background-color: #e84a5f;
+}
+
+#LostModal p {
+  text-align: center;
+}

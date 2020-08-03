@@ -1,0 +1,46 @@
+.HeroList {
+  background-color: #27496d;
+  width: 75%;
+  height: 480px;
+  border-radius: 5px;
+  overflow-y: scroll;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+.eleName {
+  text-align: center;
+}
+.eleDesignation {
+  text-align: center;
+}
+
+.heroDiv {
+  position: relative;
+  border: 20px;
+  background-color: #00bcd4;
+  width: 180px;
+  margin: 3px;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+
+.heroDiv:hover {
+  width: 200px;
+  border-radius: 8px;
+  background-color: #00909e;
+}
+
+.eleImage {
+  position: absolute;
+  width: 30px;
+  height: 100%;
+  float: right;
+  top: 0;
+  right: 0;
+  border-radius: 5px;
+}

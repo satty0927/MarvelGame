@@ -1,0 +1,23 @@
+.ResetButton {
+  position: absolute;
+  top: 0;
+  background-color: #dae1e7;
+  width: 25%;
+  border-radius: 5px;
+  height: 35px;
+  float: right;
+  right: 0;
+}
+
+#resetButton {
+  background-color: #ff9a76;
+  width: 100%;
+  border-radius: 5px;
+  height: 35px;
+  cursor: pointer;
+}
+
+#resetButton:hover {
+  background-color: #f9d56e;
+  border: none;
+}

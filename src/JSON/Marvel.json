@@ -1,0 +1,232 @@
+[
+  {
+    "Name": "Wolverine",
+    "Designation": "Mutant",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/5/57023/7469590-wolverinerb.jpg",
+    "Speed": 30,
+    "Stealth": 10,
+    "Strength": 30,
+    "Durability": 95,
+    "Skills": 10
+  },
+  {
+    "Name": "Spider-Man",
+    "Designation": "Superhuman",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/10/104700/4831078-spider-man%201.jpg",
+    "Speed": 60,
+    "Stealth": 30,
+    "Strength": 70,
+    "Durability": 65,
+    "Skills": 20
+  },
+  {
+    "Name": "Thor",
+    "Designation": "God",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11139/111399535/7231595-thor2020005-cvr.jpg",
+    "Speed": 20,
+    "Stealth": 10,
+    "Strength": 80,
+    "Durability": 80,
+    "Skills": 20
+  },
+  {
+    "Name": "Iron-Man",
+    "Designation": "Genius",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11128/111284868/5381306-iron%20man%20snip%20150.jpg",
+    "Speed": 50,
+    "Stealth": 60,
+    "Strength": 40,
+    "Durability": 50,
+    "Skills": 80
+  },
+  {
+    "Name": "Hulk",
+    "Designation": "Superhuman",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/14/140903/4127149-11.jpg",
+    "Speed": 40,
+    "Stealth": 0,
+    "Strength": 90,
+    "Durability": 70,
+    "Skills": 0
+  },
+  {
+    "Name": "CaptainAmerica",
+    "Designation": "Superhuman",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/5/57023/7391162-cap%20by%20alex%20ross.jpg",
+    "Speed": 40,
+    "Stealth": 45,
+    "Strength": 40,
+    "Durability": 60,
+    "Skills": 70
+  },
+  {
+    "Name": "Daredevil",
+    "Designation": "Superhuman",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11118/111187046/7397359-0398898002-EQH1ysWWsAA7QLf",
+    "Speed": 20,
+    "Stealth": 70,
+    "Strength": 30,
+    "Durability": 30,
+    "Skills": 45
+  },
+  {
+    "Name": "Punisher",
+    "Designation": "Superhuman",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11125/111253019/6465266-punisher_vol_12_1_textless.jpg",
+    "Speed": 25,
+    "Stealth": 35,
+    "Strength": 40,
+    "Durability": 35,
+    "Skills": 35
+  },
+  {
+    "Name": "DeadPool",
+    "Designation": "Mutant",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/4943681-dpool2015007-cov-bec9c.jpg",
+    "Speed": 30,
+    "Stealth": 20,
+    "Strength": 35,
+    "Durability": 70,
+    "Skills": 20
+  },
+  {
+    "Name": "SilverSurfer",
+    "Designation": "Alien",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/3627093-tumblr_mwhlifyyfk1spk5yeo1_1280.jpg",
+    "Speed": 40,
+    "Stealth": 20,
+    "Strength": 60,
+    "Durability": 40,
+    "Skills": 60
+  },
+  {
+    "Name": "Gambit",
+    "Designation": "Mutant",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/2981499-gambit2012015_cov.jpg",
+    "Speed": 45,
+    "Stealth": 45,
+    "Strength": 30,
+    "Durability": 40,
+    "Skills": 30
+  },
+  {
+    "Name": "Cyclops",
+    "Designation": "Mutant",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/1/14487/6966021-cyclops.jpg",
+    "Speed": 30,
+    "Stealth": 20,
+    "Strength": 35,
+    "Durability": 35,
+    "Skills": 20
+  },
+  {
+    "Name": "Mr.Fantastic",
+    "Designation": "SuperHuman",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11112/111123579/7316596-fantastic_four_vol_6_1_mr._fantastic_variant_textless.jpg",
+    "Speed": 35,
+    "Stealth": 20,
+    "Strength": 40,
+    "Durability": 60,
+    "Skills": 40
+  },
+  {
+    "Name": "Night Crawler",
+    "Designation": "Mutant",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11112/111123579/6545647-x-men_red_vol_1_9_textless.jpg",
+    "Speed": 30,
+    "Stealth": 70,
+    "Strength": 40,
+    "Durability": 30,
+    "Skills": 50
+  },
+  {
+    "Name": "Nick Fury",
+    "Designation": "Assassin",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/4076005-untitled-2.jpg",
+    "Speed": 30,
+    "Stealth": 80,
+    "Strength": 30,
+    "Durability": 45,
+    "Skills": 70
+  },
+  {
+    "Name": "Human Torch",
+    "Designation": "Superhuman",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/4531254-1b0a9cbfa1742bdebed2449fc7a3d63e.jpg",
+    "Speed": 65,
+    "Stealth": 30,
+    "Strength": 70,
+    "Durability": 40,
+    "Skills": 20
+  },
+  {
+    "Name": "Iceman",
+    "Designation": "SuperHuman",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11112/111123579/7164923-iceman_vol_4_1_textless.jpg",
+    "Speed": 25,
+    "Stealth": 30,
+    "Strength": 40,
+    "Durability": 20,
+    "Skills": 30
+  },
+  {
+    "Name": "Professor X",
+    "Designation": "Mutant",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/7261595-hox1pichelli.jpg",
+    "Speed": 0,
+    "Stealth": 0,
+    "Strength": 0,
+    "Durability": 0,
+    "Skills": 0
+  },
+  {
+    "Name": "Colossus",
+    "Designation": "Mutant",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11130/111300304/5810917-image.jpeg",
+    "Speed": 0,
+    "Stealth": 0,
+    "Strength": 0,
+    "Durability": 0,
+    "Skills": 0
+  },
+  {
+    "Name": "Bucky Barnes",
+    "Designation": "Assassin",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/14/149570/4066832-image-93.jpg",
+    "Speed": 0,
+    "Stealth": 0,
+    "Strength": 0,
+    "Durability": 0,
+    "Skills": 0
+  },
+  {
+    "Name": "Dr.Strange",
+    "Designation": "Sorcerer",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/12/124259/7261353-rco022_1582718254.jpg",
+    "Speed": 0,
+    "Stealth": 0,
+    "Strength": 0,
+    "Durability": 0,
+    "Skills": 0
+  },
+  {
+    "Name": "Storm",
+    "Designation": "Mutant",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/9/96747/6939889-fearless2019002-cov.jpg",
+    "Speed": 0,
+    "Stealth": 0,
+    "Strength": 0,
+    "Durability": 0,
+    "Skills": 0
+  },
+  {
+    "Name": "Jean Grey",
+    "Designation": "Mutant",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/9/96747/7068799-14.jpg",
+    "Speed": 0,
+    "Stealth": 0,
+    "Strength": 0,
+    "Durability": 0,
+    "Skills": 0
+  }
+]

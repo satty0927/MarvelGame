@@ -1,0 +1,132 @@
+[
+  {
+    "Name": "Hal Jordan",
+    "Designation": "Alien",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11114/111147698/6520709-1532011657748.jpg",
+    "Speed": 30,
+    "Stealth": 20,
+    "Strength": 60,
+    "Durability": 35,
+    "Skills": 80
+  },
+  {
+    "Name": "Batman",
+    "Designation": "Assassin",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11125/111253436/6733777-4.jpg",
+    "Speed": 35,
+    "Stealth": 95,
+    "Strength": 20,
+    "Durability": 35,
+    "Skills": 60
+  },
+  {
+    "Name": "Dick Grayson",
+    "Designation": "Assassin",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/6436335-nightwing%2041.jpg",
+    "Speed": 30,
+    "Stealth": 80,
+    "Strength": 20,
+    "Durability": 20,
+    "Skills": 50
+  },
+  {
+    "Name": "Cyclone",
+    "Designation": "MetaHuamn",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11112/111123579/7473014-maxine_hunkel_prime_earth_001.jpg",
+    "Speed": 50,
+    "Stealth": 20,
+    "Strength": 60,
+    "Durability": 20,
+    "Skills": 10
+  },
+  {
+    "Name": "Superman",
+    "Designation": "Alien",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11/117229/6777461-ce00l1hcatb21.jpg",
+    "Speed": 80,
+    "Stealth": 10,
+    "Strength": 85,
+    "Durability": 70,
+    "Skills": 20
+  },
+  {
+    "Name": "Lex Luthor",
+    "Designation": "Genius",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11114/111147698/6807563-dc-year-villain-1-250var-maleev-1.jpg",
+    "Speed": 5,
+    "Stealth": 10,
+    "Strength": 5,
+    "Durability": 0,
+    "Skills": 50
+  },
+  {
+    "Name": "Green Arrow",
+    "Designation": "Assassin",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/6581972-4t0f7ihxo4g11.jpg",
+    "Speed": 40,
+    "Stealth": 40,
+    "Strength": 30,
+    "Durability": 20,
+    "Skills": 50
+  },
+  {
+    "Name": "Wally West",
+    "Designation": "Meta Human",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/12/124259/7250731-rco020_1582118294.jpg",
+    "Speed": 80,
+    "Stealth": 20,
+    "Strength": 40,
+    "Durability": 30,
+    "Skills": 30
+  },
+  {
+    "Name": "Aquaman",
+    "Designation": "Meta Human",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/12/124259/6813787-732893_589a6c3085173ec7e7877d12a86293fede9c7f36.jpg",
+    "Speed": 50,
+    "Stealth": 30,
+    "Strength": 60,
+    "Durability": 30,
+    "Skills": 20
+  },
+  {
+    "Name": "Flash",
+    "Designation": "Meta Human",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/3591176-fls_30_52cf49e70d6465.15357135.jpg",
+    "Speed": 95,
+    "Stealth": 20,
+    "Strength": 50,
+    "Durability": 30,
+    "Skills": 10
+  },
+  {
+    "Name": "Wonder Woman",
+    "Designation": "God",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/5/57023/7403132-ww%20by%20liam%20sharp.jpg",
+    "Speed": 50,
+    "Stealth": 5,
+    "Strength": 70,
+    "Durability": 25,
+    "Skills": 50
+  },
+  {
+    "Name": "Shazam",
+    "Designation": "Meta Huamn",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11111/111113340/7312914-00_shazam.jpg",
+    "Speed": 50,
+    "Stealth": 30,
+    "Strength": 60,
+    "Durability": 30,
+    "Skills": 20
+  },
+  {
+    "Name": "DeadShot",
+    "Designation": "Assassin",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11114/111147698/5504545-screen%20shot%202016-10-27%20at%201.20.23%20pm.png",
+    "Speed": 30,
+    "Stealth": 40,
+    "Strength": 20,
+    "Durability": 30,
+    "Skills": 70
+  }
+]
