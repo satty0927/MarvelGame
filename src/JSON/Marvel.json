@@ -173,60 +173,70 @@
     "Name": "Professor X",
     "Designation": "Mutant",
     "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/7261595-hox1pichelli.jpg",
-    "Speed": 0,
-    "Stealth": 0,
-    "Strength": 0,
-    "Durability": 0,
-    "Skills": 0
+    "Speed": 5,
+    "Stealth": 50,
+    "Strength": 10,
+    "Durability": 20,
+    "Skills": 70
   },
   {
     "Name": "Colossus",
     "Designation": "Mutant",
     "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11130/111300304/5810917-image.jpeg",
-    "Speed": 0,
-    "Stealth": 0,
-    "Strength": 0,
-    "Durability": 0,
-    "Skills": 0
+    "Speed": 10,
+    "Stealth": 10,
+    "Strength": 60,
+    "Durability": 60,
+    "Skills": 40
   },
   {
     "Name": "Bucky Barnes",
     "Designation": "Assassin",
     "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/14/149570/4066832-image-93.jpg",
-    "Speed": 0,
-    "Stealth": 0,
-    "Strength": 0,
-    "Durability": 0,
-    "Skills": 0
+    "Speed": 40,
+    "Stealth": 40,
+    "Strength": 30,
+    "Durability": 40,
+    "Skills": 40
   },
   {
     "Name": "Dr.Strange",
     "Designation": "Sorcerer",
     "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/12/124259/7261353-rco022_1582718254.jpg",
-    "Speed": 0,
-    "Stealth": 0,
-    "Strength": 0,
-    "Durability": 0,
-    "Skills": 0
+    "Speed": 20,
+    "Stealth": 50,
+    "Strength": 50,
+    "Durability": 30,
+    "Skills": 70
   },
   {
     "Name": "Storm",
     "Designation": "Mutant",
     "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/9/96747/6939889-fearless2019002-cov.jpg",
-    "Speed": 0,
-    "Stealth": 0,
-    "Strength": 0,
-    "Durability": 0,
-    "Skills": 0
+    "Speed": 40,
+    "Stealth": 20,
+    "Strength": 80,
+    "Durability": 60,
+    "Skills": 30
   },
   {
     "Name": "Jean Grey",
     "Designation": "Mutant",
     "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/9/96747/7068799-14.jpg",
-    "Speed": 0,
-    "Stealth": 0,
-    "Strength": 0,
-    "Durability": 0,
-    "Skills": 0
+    "Speed": 30,
+    "Stealth": 30,
+    "Strength": 60,
+    "Durability": 60,
+    "Skills": 70
+  },
+  {
+    "Name": "QuickSilver",
+    "Designation": "Mutant",
+    "Image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11112/111123579/7482858-pietro_maximoff_%28earth-616%29_from_quicksilver_no_surrender_vol_1_4_001.jpg",
+    "Speed": 85,
+    "Stealth": 30,
+    "Strength": 40,
+    "Durability": 30,
+    "Skills": 70
   }
 ]
