@@ -57,19 +57,19 @@ class Game extends React.Component {
             right_Skills = parseInt(right_Skills) + parseInt(hero.Skills);
         });
         var isRightSpeed = false, isRightStealth = false, isRightStrength = false, isRightDurability = false, isRightSkills = false;
-        if (parseInt(this.state.ShownStats.Speed) < right_Speed) {
+        if (parseInt(this.state.ShownStats.Speed) <= right_Speed) {
             isRightSpeed = true;
         }
-        if (parseInt(this.state.ShownStats.Stealth) < right_Stealth) {
+        if (parseInt(this.state.ShownStats.Stealth) <= right_Stealth) {
             isRightStealth = true;
         }
-        if (parseInt(this.state.ShownStats.Strength) < right_Strength) {
+        if (parseInt(this.state.ShownStats.Strength) <= right_Strength) {
             isRightStrength = true;
         }
-        if (parseInt(this.state.ShownStats.Durability) < right_Durability) {
+        if (parseInt(this.state.ShownStats.Durability) <= right_Durability) {
             isRightDurability = true;
         }
-        if (parseInt(this.state.ShownStats.Skills) < right_Skills) {
+        if (parseInt(this.state.ShownStats.Skills) <= right_Skills) {
             isRightSkills = true;
         }
         if (isRightSpeed && isRightStealth && isRightDurability && isRightStrength && isRightSkills) {
@@ -243,6 +243,17 @@ class Game extends React.Component {
                 SelectCount: currentSelectCount
             })
         }
+
+        var filteredHeroes = this.state.HeroList.filter(val => val.isHeroSelected);
+        var spd = 0, stl = 0, str = 0, dur = 0, skl = 0;
+        filteredHeroes.forEach(element => {
+            spd = parseInt(spd) + parseInt(element.Speed);
+            stl = parseInt(stl) + parseInt(element.Stealth);
+            str = parseInt(str) + parseInt(element.Strength);
+            dur = parseInt(dur) + parseInt(element.Durability);
+            skl = parseInt(skl) + parseInt(element.Skills);
+        });
+        console.log("Speed: " + spd + "Stealth: " + stl + "Strength: " + str + "Durability: " + dur + "Skills: " + skl);
     }
 
     render() {
