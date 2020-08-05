@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e958ece61168f62aa893217ee857ecaf",
+    "revision": "75c01e65cc0df032b22cea99abbd85ec",
     "url": "/MarvelGame/index.html"
   },
   {
-    "revision": "b0fb7d2dc3de329defaf",
+    "revision": "6188a12b2092bd1a00a7",
     "url": "/MarvelGame/static/css/main.27747e7e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MarvelGame/static/js/2.26340233.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b0fb7d2dc3de329defaf",
-    "url": "/MarvelGame/static/js/main.ae195b2e.chunk.js"
+    "revision": "6188a12b2092bd1a00a7",
+    "url": "/MarvelGame/static/js/main.c4022660.chunk.js"
   },
   {
     "revision": "97f71334aeb30ec09089",
